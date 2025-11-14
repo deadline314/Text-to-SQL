@@ -1,6 +1,7 @@
 # Text-to-SQL
 
 將自然語言轉換為 SQL 查詢的系統。
+<img width="1404" height="723" alt="image" src="https://github.com/user-attachments/assets/45c731ee-42b7-4d9b-98d8-7550eec17913" />
 
 ## 特點
 
