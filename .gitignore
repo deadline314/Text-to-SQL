@@ -63,3 +63,6 @@ web/frontend/npm-debug.log*
 web/frontend/yarn-debug.log*
 web/frontend/yarn-error.log*
 
+# Resource
+resources/
+research/
